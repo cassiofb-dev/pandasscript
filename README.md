@@ -72,7 +72,7 @@ Gráfico gerado:
 ![covid](https://i.imgur.com/455rc7J.png)
 
 Árvore de geração utilizada caso a linha 2 fosse um print no lugar de um asssing:
-![arvore](https://i.imgur.com/dRctMRa.png)
+![arvore](https://i.imgur.com/3q7fWa5.png)
 
 ## Créditos
 
@@ -82,6 +82,7 @@ Essa aplicação utiliza os seguintes projetos de código aberto:
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [SLY](https://github.com/dabeaz/sly)
+- [COVID dataset](https://github.com/CSSEGISandData/COVID-19)
 
 Inspiração do README [electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify).
 
