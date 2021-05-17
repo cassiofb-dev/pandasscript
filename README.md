@@ -13,7 +13,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://i.imgur.com/nWrDkmN.png)
+[![screenshot](https://i.imgur.com/nWrDkmN.png)](https://www.youtube.com/watch?v=JWDCLF0NqS8)
 
 ## Introdução
 O Pandas Script é uma linguagem simples de auto nível que tem como objetivo simplificar e agilizar a visualização e gerenciamento de dados como CSV.
@@ -42,6 +42,8 @@ O Pandas Script é uma linguagem simples de auto nível que tem como objetivo si
   - Desvio Padrão
 
 ## Como usar
+
+[Video de apresentação](https://www.youtube.com/watch?v=JWDCLF0NqS8).
 
 Para clonar e rodar essa aplicação, você irá precisar [Git](https://git-scm.com), [Python](https://www.python.org/). Pelo seu terminal:
 
