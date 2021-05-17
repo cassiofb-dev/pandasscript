@@ -9,6 +9,7 @@
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#como-usar">Como usar</a> •
   <a href="#exemplo">Exemplo</a> •
+  <a href="#documentação">Documentação</a> •
   <a href="#créditos">Créditos</a> •
   <a href="#license">License</a>
 </p>
@@ -16,7 +17,7 @@
 [![screenshot](https://i.imgur.com/nWrDkmN.png)](https://www.youtube.com/watch?v=JWDCLF0NqS8)
 
 ## Introdução
-O Pandas Script é uma linguagem simples de auto nível que tem como objetivo simplificar e agilizar a visualização e gerenciamento de dados como CSV.
+O Pandas Script é uma linguagem simples de alto nível que tem como objetivo simplificar e agilizar a visualização e gerenciamento de dados como CSV.
 
 ## Funcionalidades
 
@@ -70,11 +71,29 @@ deaths      = CUT 474 484 brazil_data 1
 PLOT deaths "Mortes por COVID"
 ```
 
+Rodando o exemplo no terminal:
+```
+py main.py .\example\covid_death.ps
+```
+
 Gráfico gerado:
 ![covid](https://i.imgur.com/455rc7J.png)
 
 Árvore de geração utilizada caso a linha 2 fosse um print no lugar de um asssing:
 ![arvore](https://i.imgur.com/3q7fWa5.png)
+
+## Documentação
+
+- ``py main.py``
+  - Executa o shell
+- ``py main.py help``
+  - Executa o comando de ajuda
+- ``py main.py license``
+  - Executa o comando de licensa
+- ``py main.py copyright``
+  - Executa o comando de copyright
+- ``py main.py filePath``
+  - Executa o parse de um arquivo
 
 ## Créditos
 
