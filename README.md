@@ -10,6 +10,7 @@
   <a href="#como-usar">Como usar</a> •
   <a href="#exemplo">Exemplo</a> •
   <a href="#documentação">Documentação</a> •
+  <a href="#produções-e-ações-semânticas">Produções e Ações Semânticas</a> •
   <a href="#créditos">Créditos</a> •
   <a href="#license">License</a>
 </p>
