@@ -95,7 +95,7 @@ Gráfico gerado:
 - ``py main.py filePath``
   - Executa o parse de um arquivo
 
-## Gramática e Ações Sintáticas
+## Produções e Ações Semânticas
 
 Observações:
 - Tokens em caixa alta
